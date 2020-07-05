@@ -1,0 +1,17 @@
+/* COLORS */
+$background: #282c34;
+$text: #dcdfe4;
+$font: "Mononoki";
+
+@font-face {
+  font-family: $font;
+  src: url("https://github.com/madmalik/mononoki/blob/master/export/webfont/mononoki-Regular.ttf");
+}
+
+#splash {
+  background: $background !important;
+  .splash-inner .splash-text > span.splash-status {
+    color: $text !important;
+    font-family: $font !important;
+  }
+}
