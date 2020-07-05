@@ -1,6 +1,7 @@
 # One Dark Splash Screen
 ## Installation
-Install it like you do to any theme.
+1. Install the font (http://madmalik.github.io/mononoki/).
+2. Install it like you do to any theme.
 ## Customization
 You can customize this by editing the files.
 
